@@ -16,10 +16,10 @@ repeat(_height)
         var _colour = c_white;
         switch(_type)
         {
-            case 0: _colour = c_blue;   break;
-            case 1: _colour = c_lime;   break;
-            case 2: _colour = c_dkgray; break;
-            case 3: _colour = c_green;  break;
+            case eTerrain.Water   : _colour = c_blue;   break;
+            case eTerrain.Land    : _colour = c_lime;   break;
+            case eTerrain.Mountain: _colour = c_dkgray; break;
+            case eTerrain.Forest  : _colour = c_green;  break;
         }
         draw_set_colour(_colour);
         
