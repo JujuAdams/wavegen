@@ -27,7 +27,7 @@ enum __eWaveGen
     __Size
 }
 
-#macro WAVEGEN_VERSION  "Wavegen 0.0.0"
+#macro WAVEGEN_VERSION  "Wavegen 1.0.0"
 
 var _array = array_create(__eWaveGen.__Size);
 _array[@ __eWaveGen.Seed   ] = _seed;
