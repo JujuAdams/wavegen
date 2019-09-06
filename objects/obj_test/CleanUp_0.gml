@@ -1,0 +1,1 @@
+wavegen_destroy(wavegen);
