@@ -34,4 +34,4 @@ wavegen_grid_set(wavegen,    _width div 4,     _height div 4 , 1);
 wavegen_grid_set(wavegen, 3*(_width div 4),    _height div 4 , 1);
 wavegen_grid_set(wavegen,    _width div 4 , 3*(_height div 4), 1);
 wavegen_grid_set(wavegen, 3*(_width div 4), 3*(_height div 4), 1);
-wavegen_generate_scatter(wavegen);
+wavegen_generate(wavegen);

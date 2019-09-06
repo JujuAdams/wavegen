@@ -98,7 +98,7 @@
             "Key": "3e0198f5-df61-466e-b715-43e59d2cd9a9",
             "Value": {
                 "id": "7fbf26de-56e9-43c8-92b6-6b2a41a3e0a2",
-                "resourcePath": "scripts\\wavegen_generate_wavefront\\wavegen_generate_wavefront.yy",
+                "resourcePath": "scripts\\wavegen_generate\\wavegen_generate.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -115,14 +115,6 @@
             "Value": {
                 "id": "983ea522-296b-435b-96e7-f711c686758d",
                 "resourcePath": "scripts\\wavegen_rule_get_array\\wavegen_rule_get_array.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "51143c11-9e80-45e5-b9b0-6fa736c0de95",
-            "Value": {
-                "id": "9c566011-a81f-467c-80a9-6fb9f1dabfe9",
-                "resourcePath": "scripts\\wavegen_generate_scatter\\wavegen_generate_scatter.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -413,7 +405,6 @@
         "f10e9d59-0c6c-4b68-a669-dfaef0f49957",
         "7d754b4a-a867-495e-af72-916d1cc6c995",
         "4db9d423-c6cf-4f18-94cd-80563ab026b0",
-        "51143c11-9e80-45e5-b9b0-6fa736c0de95",
         "3e0198f5-df61-466e-b715-43e59d2cd9a9"
     ],
     "tutorial": ""
